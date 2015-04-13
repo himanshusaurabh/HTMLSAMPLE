@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html>
+
+<head data-gwd-animation-mode="proMode">
+  <link href="gwdimage_style.css" data-version="1.1" data-exports-type="gwd-image" rel="stylesheet">
+  <link href="gwdpagedeck_style.css" data-version="1.1" data-exports-type="gwd-pagedeck" rel="stylesheet">
+  <script data-source="custom.elements.min.js" type="text/javascript" src="custom.elements.min.js"></script>
+  <meta name="generator" content="Google Web Designer 1.2.0.1203">
+  <meta name="template" content="Banner 2.1.2">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style type="text/css" id="gwd-lightbox-style">
+    .gwd-lightbox {
+      overflow: hidden;
+    }
+  </style>
+  <style type="text/css">
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0px;
+    }
+    .gwd-page-container {
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+    .gwd-page-content {
+      -webkit-transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+      -webkit-transform-style: preserve-3d;
+      position: absolute;
+      background-color: transparent;
+    }
+    .gwd-page-wrapper {
+      position: absolute;
+      -webkit-transform: translateZ(0px);
+      background-color: rgb(255, 255, 255);
+    }
+    .gwd-page-size {
+      width: 600px;
+      height: 550px;
+    }
+    .gwd-div-j28d {
+      position: absolute;
+      width: 600px;
+      height: 397px;
+      left: 0px;
+      top: 66px;
+      -webkit-transform: translate3d(0px, 7px, 0px);
+      -webkit-transform-style: preserve-3d;
+      background-image: none;
+      background-color: rgb(79, 255, 0);
+    }
+    .gwd-img-9r6m {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      -webkit-transform: translate3d(198.5px, 136.5px, 0px);
+      -webkit-transform-style: preserve-3d;
+    }
+    .gwd-div-rzbc {
+      width: 600px;
+      height: 550px;
+    }
+    .gwd-div-2ra3 {
+      width: 600px;
+      height: 550px;
+    }
+    .gwd-div-slrk {
+      position: absolute;
+      width: 600px;
+      height: 394px;
+      left: 0px;
+      top: 63px;
+      background-image: none;
+      background-color: rgb(255, 91, 70);
+    }
+    .gwd-img-i77n {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      -webkit-transform: translate3d(174px, 62px, 0px);
+      -webkit-transform-style: preserve-3d;
+    }
+    .gwd-div-rght {
+      width: 600px;
+      height: 550px;
+    }
+    .gwd-div-dcb8 {
+      width: 600px;
+      height: 550px;
+    }
+    .gwd-div-mxc4 {
+      position: absolute;
+      width: 600px;
+      height: 135px;
+      left: 0px;
+      top: 65px;
+    }
+    .gwd-div-cveu {
+      position: absolute;
+      width: 569px;
+      height: 135px;
+      left: 0px;
+      top: 65px;
+      border-image-source: none;
+      border-color: rgb(0, 0, 0);
+    }
+    .gwd-div-s9kj {
+      position: absolute;
+      width: 600px;
+      height: 135px;
+      left: 0px;
+      top: 65px;
+      background-image: none;
+      background-color: rgb(0, 0, 24);
+    }
+    .gwd-div-4bxz {
+      position: absolute;
+      width: 600px;
+      height: 131px;
+      left: 0px;
+      top: 200px;
+      border-image-source: none;
+      border-color: rgb(255, 139, 174);
+      background-image: none;
+      background-color: rgb(23, 181, 255);
+    }
+    .gwd-img-pmt3 {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      -webkit-transform: translate3d(150px, 331px, 0px);
+      -webkit-transform-style: preserve-3d;
+      background-image: none;
+      background-color: rgb(0, 0, 0);
+    }
+    .gwd-span-ay2s {
+      font-size: 36px;
+    }
+    .gwd-div-uku4 {
+      position: absolute;
+      width: 111px;
+      height: 64px;
+      left: 23px;
+      top: 351px;
+      font-family: 'Times New Roman';
+      text-align: left;
+      color: rgb(0, 0, 0);
+    }
+    .gwd-div-53jy {
+      width: 600px;
+      height: 550px;
+    }
+    .gwd-div-fz4d {
+      width: 600px;
+      height: 550px;
+    }
+    .gwd-img-9uac {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      -webkit-transform: translate3d(163px, 190px, 0px);
+      -webkit-transform-style: preserve-3d;
+    }
+    .gwd-div-viq3 {
+      position: absolute;
+      width: 601px;
+      height: 124px;
+      left: -1px;
+      top: 66px;
+      background-image: none;
+      background-color: rgb(46, 255, 89);
+    }
+    .gwd-div-v0ww {
+      position: absolute;
+      width: 601px;
+      height: 123px;
+      left: -1px;
+      top: 365px;
+      background-image: none;
+      background-color: rgb(255, 255, 22);
+    }
+    .gwd-div-lr0n {
+      width: 600px;
+      height: 550px;
+    }
+    .gwd-div-dbvn {
+      width: 600px;
+      height: 550px;
+    }
+    .gwd-div-0fki {
+      position: absolute;
+      width: 600px;
+      height: 211px;
+      left: 0px;
+      top: 64px;
+      background-image: none;
+      background-color: rgb(0, 0, 0);
+    }
+    .gwd-div-ok4c {
+      position: absolute;
+      width: 600px;
+      height: 213px;
+      left: 0px;
+      top: 275px;
+      background-image: none;
+      background-color: rgb(0, 0, 0);
+    }
+    .gwd-img-nkqd {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+    }
+    .gwd-div-k61o {
+      position: absolute;
+      width: 150px;
+      height: 211px;
+      left: 450px;
+      top: 64px;
+      background-image: none;
+      background-color: rgb(255, 255, 255);
+    }
+    .gwd-div-8ags {
+      position: absolute;
+      width: 106px;
+      height: 81px;
+      left: 474px;
+      top: 130px;
+      font-family: 'Times New Roman';
+      text-align: left;
+      color: rgb(0, 0, 0);
+    }
+    .gwd-div-rpnd {
+      width: 600px;
+      height: 550px;
+    }
+    .gwd-div-j5v6 {
+      width: 600px;
+      height: 550px;
+    }
+    .gwd-img-7iub {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      width: 600px;
+      height: 550px;
+    }
+    .gwd-div-ihke {
+      width: 600px;
+      height: 550px;
+    }
+    .gwd-div-err2 {
+      width: 600px;
+      height: 550px;
+    }
+    .gwd-div-9fbc {
+      position: absolute;
+      width: 600px;
+      height: 106px;
+      left: 0px;
+      top: 66px;
+      -webkit-transform-origin: 428.2309306228px 60.7191340315px 0px;
+      -webkit-transform: matrix3d(0.9920856361, 0.0481286389, -0.1159729479, 0, -0.0780708456, 0.9598225604, -0.2695284693, 0, 0.0983414135, 0.2764494289, 0.9559836189, 0, -3.2553672841, 16.9710646877, 76.04936787, 1);
+      -webkit-transform-style: preserve-3d;
+      background-image: none;
+      background-color: rgb(255, 70, 46);
+    }
+    .gwd-div-gxvn {
+      position: absolute;
+      width: 600px;
+      height: 118px;
+      left: 0px;
+      top: 172px;
+      -webkit-transform: matrix3d(0.9978589232, 0, -0.0654031292, 0, 0.0393605857, 0.79863551, 0.600526491, 0, 0.0522332615, -0.6018150232, 0.7969255701, 0, 0, 0, 0, 1);
+      -webkit-transform-style: preserve-3d;
+      background-image: none;
+      background-color: rgb(55, 255, 23);
+    }
+    .gwd-div-vtn9 {
+      position: absolute;
+      width: 600px;
+      height: 102px;
+      left: 0px;
+      top: 290px;
+      background-image: none;
+      background-color: rgba(0, 0, 0, 0.819608);
+    }
+    .gwd-div-zfro {
+      position: absolute;
+      width: 600px;
+      height: 96px;
+      left: 0px;
+      top: 392px;
+      background-image: none;
+      background-color: rgb(0, 0, 0);
+    }
+    .gwd-div-6tp8 {
+      position: absolute;
+      width: 600px;
+      height: 102px;
+      left: 0px;
+      top: 290px;
+      -webkit-transform: matrix3d(0.999390827, 0, -0.0348994967, 0, 0.0231251062, 0.7489557208, 0.662216398, 0, 0.0261381777, -0.6626200482, 0.7484994772, 0, 0, 0, 0, 1);
+      -webkit-transform-style: preserve-3d;
+      background-image: none;
+      background-color: rgb(0, 0, 0);
+    }
+  </style>
+  <script data-source="gwdpage_min.js" data-version="1.1" data-exports-type="gwd-page" type="text/javascript" src="gwdpage_min.js"></script>
+  <script data-source="gwdpagedeck_min.js" data-version="1.1" data-exports-type="gwd-pagedeck" type="text/javascript" src="gwdpagedeck_min.js"></script>
+  <script data-source="https://s0.2mdn.net/ads/studio/Enabler.js" data-exports-type="gwd-doubleclick" type="text/javascript" src="https://s0.2mdn.net/ads/studio/Enabler.js"></script>
+  <script data-source="gwddoubleclick_min.js" data-version="1.3" data-exports-type="gwd-doubleclick" type="text/javascript" src="gwddoubleclick_min.js"></script>
+  <script data-source="gwdimage_min.js" data-version="1.1" data-exports-type="gwd-image" type="text/javascript" src="gwdimage_min.js"></script>
+</head>
+
+<body>
+  <gwd-doubleclick id="gwd-ad" polite-load="">
+    <gwd-metric-configuration></gwd-metric-configuration>
+    <div is="gwd-pagedeck" class="gwd-page-container" id="pagedeck">
+      <div is="gwd-page" id="page1" class="gwd-page-wrapper gwd-page-size gwd-lightbox" data-gwd-width="600px" data-gwd-height="550px" data-gwd-name="" style="">
+        <div class="gwd-page-content gwd-page-size">
+          <div class="gwd-div-j28d"></div>
+          <img class="gwd-img-9r6m" is="gwd-image" source="assets/image.png" id="gwd-image_5">
+        </div>
+      </div>
+      <div id="page1_1" is="gwd-page" class="gwd-page-wrapper gwd-lightbox gwd-div-rzbc" data-gwd-width="600px" data-gwd-height="550px">
+        <div class="gwd-page-content gwd-div-2ra3">
+          <div class="gwd-div-slrk"></div>
+          <img class="gwd-img-i77n" is="gwd-image" source="assets/image_1.png" id="gwd-image_4">
+        </div>
+      </div>
+      <div id="page1_2" is="gwd-page" class="gwd-page-wrapper gwd-lightbox gwd-div-rght" data-gwd-width="600px" data-gwd-height="550px">
+        <div class="gwd-page-content gwd-div-dcb8">
+          <div class="gwd-div-mxc4"></div>
+          <div class="gwd-div-cveu"></div>
+          <div class="gwd-div-s9kj"></div>
+          <div class="gwd-div-4bxz"></div>
+          <div class="gwd-div-uku4">BRAVARIAN MOTOR &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WORKS</div>
+          <img class="gwd-img-pmt3" is="gwd-image" source="assets/image_2.png" id="gwd-image_3">
+        </div>
+      </div>
+      <div id="page1_3" is="gwd-page" class="gwd-page-wrapper gwd-lightbox gwd-div-53jy" data-gwd-width="600px" data-gwd-height="550px">
+        <div class="gwd-page-content gwd-div-fz4d">
+          <img class="gwd-img-9uac" is="gwd-image" source="assets/image_3.png" id="gwd-image_2">
+          <div class="gwd-div-viq3"></div>
+          <div class="gwd-div-v0ww"></div>
+        </div>
+      </div>
+      <div id="page1_4" is="gwd-page" class="gwd-page-wrapper gwd-lightbox gwd-div-lr0n" data-gwd-width="600px" data-gwd-height="550px">
+        <div class="gwd-page-content gwd-div-dbvn">
+          <div class="gwd-div-0fki"></div>
+          <div class="gwd-div-ok4c"></div>
+          <img class="gwd-img-nkqd" is="gwd-image" source="assets/image_4.png" id="gwd-image_1">
+          <div class="gwd-div-k61o"></div>
+          <div class="gwd-div-8ags">&nbsp;BMW &nbsp;HEAD &nbsp; QUARTER AT &nbsp;MUNICH, &nbsp; &nbsp; &nbsp; &nbsp; GERMANY</div>
+        </div>
+      </div>
+      <div id="page1_5" is="gwd-page" class="gwd-page-wrapper gwd-lightbox gwd-div-rpnd" data-gwd-width="600px" data-gwd-height="550px">
+        <div class="gwd-page-content gwd-div-j5v6">
+          <img class="gwd-img-7iub" is="gwd-image" source="assets/image_12.png" id="gwd-image_6">
+        </div>
+      </div>
+      <div id="page1_6" is="gwd-page" class="gwd-page-wrapper gwd-lightbox gwd-div-ihke" data-gwd-width="600px" data-gwd-height="550px">
+        <div class="gwd-page-content gwd-div-err2">
+          <div class="gwd-div-9fbc"></div>
+          <div class="gwd-div-gxvn"></div>
+          <div class="gwd-div-vtn9"></div>
+          <div class="gwd-div-zfro"></div>
+          <div class="gwd-div-6tp8"></div>
+        </div>
+      </div>
+    </div>
+  </gwd-doubleclick>
+  <script type="text/javascript" id="gwd-init-code">
+    (function() {
+      document.body.style.opacity = "0";
+      var gwdAd = document.getElementById('gwd-ad');
+      /**
+       * Handles the DOMContentLoaded event. The DOMContentLoaded event is
+       * fired when the document has been completely loaded and parsed.
+       */
+
+      function handleDomContentLoaded(event) {
+        // This is a good place to show a loading or branding image while
+        // the ad loads.
+      }
+
+      /**
+       * Handles the WebComponentsReady event. This event is fired when all
+       * custom elements have been registered and upgraded.
+       */
+      function handleWebComponentsReady(event) {
+        document.body.style.opacity = "";
+        // Start the Ad lifecycle.
+        setTimeout(function() {
+          gwdAd.initAd();
+        }, 0);
+      }
+
+      /**
+       * Handles the event that is dispatched after the Ad has been
+       * initialized and before the default page of the Ad is shown.
+       */
+      function handleAdInitialized(event) {
+        // This marks the end of the polite load phase of the Ad. If a
+        // loading image was shown to the user, this is a good place to
+        // remove it.
+      }
+
+      window.addEventListener('DOMContentLoaded',
+        handleDomContentLoaded, false);
+      window.addEventListener('WebComponentsReady',
+        handleWebComponentsReady, false);
+      window.addEventListener('adinitialized',
+        handleAdInitialized, false);
+    })();
+  </script>
+</body>
+
+</html>
